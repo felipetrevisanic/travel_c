@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Travel_C</string>
+    <string name="login_slogan">Aproveite sua viagem sem se preocupar com as contas</string>
+    <string name="login_login">Login</string>
+    <string name="login_senha">Senha</string>
+    <string name="login_entrar">Entrar</string>
+    <string name="login_acesso_local">Criar nova conta</string>
+
+    <string name="registro_criar">Criar</string>
+    <string name="registro_email">insira seu e-mail...</string>
+    <string name="registro_senha">Insira sua senha...</string>
+    <string name="registro_confirmacao">Insira sua senha novamente...</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="confimacao">Confirmação da senha</string>
+
+    <!--    aparecem em mais de uma pagina -->
+    <string name="digite_valor">Digite o valor aqui...</string>
+    <string name="total">Total</string>
+    <string name="adicionar_viagem">Adicionar a viagem?</string>
+    <string name="avancar">Avançar</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="salvar">Salvar</string>
+    <string name="voltar">Voltar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="verificar_previsoes">Verificar Previsões antigas</string>
+    <string name="destino">Destino</string>
+    <string name="mais">+</string>
+    <string name="home">Home</string>
+    <string name="home_viajantes">Número de viajantes</string>
+    <string name="home_dias">Duração da viagem em dias</string>
+    <string name="home_nova_viagem">Nova viagem</string>
+    <string name="home_previsoes">Verificar previsões antigas</string>
+
+    <string name="relatorio">Relatório</string>
+    <string name="viagem">Viagem</string>
+    <string name="viagem_total_viajantes">Total de viajantes</string>
+    <string name="viagem_duracao">duração da viagem (em dias)</string>
+    <string name="viagem_custo_total">Custo total da viagem</string>
+    <string name="viagem_custo_pessoa">Custo por pessoa</string>
+
+    <string name="viagens">Viagens</string>
+
+    <string name="gasolina">Gasolina</string>
+    <string name="gasolina_total_km">Total estimado de quilômetros</string>
+    <string name="gasolina_media_km">Média de quilômetros por litro</string>
+    <string name="gasolina_media_l">Custo médio por litro</string>
+    <string name="gasolina_total_veiculos">Total de veículos</string>
+
+    <string name="tarifa_aerea">Tarifa áerea</string>
+    <string name="tarifa_custo_pessoa">Custo estimado por pessoa</string>
+    <string name="tarifa_alugel">Aluguel de veículo</string>
+
+    <string name="refeicao">Refeições</string>
+    <string name="refeicao_custo_refeicao">Custo estimado por refeição</string>
+    <string name="refeicao_por_dia">Refeições por dia</string>
+
+    <string name="hospedagem">Hospedagem</string>
+    <string name="hospedagem_custo">Custo médio (por noite)</string>
+    <string name="hospedagem_noites">Total de noites</string>
+    <string name="hospedagem_quartos">Total de quartos</string>
+
+    <string name="diversos">Diversos</string>
+    <string name="diversos_adicionar">Adicionar custos diversos</string>
+    <string name="diversos_custo_adicional">Digite um custo adicional</string>
+    <string name="diversos_nome_adicional">Digite o nome da atração adicional</string>
+
+
+</resources>
